@@ -1,0 +1,23 @@
+{
+  "name": "cheetah-client",
+  "version": "1.0.0",
+  "description": "A node client for Cheetah Digital APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cheetah",
+    "digital",
+    "content",
+    "looping",
+    "blocks",
+    "xsl"
+  ],
+  "author": "Jacob Kelley <jacob.kelley@dollarshaveclub.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
