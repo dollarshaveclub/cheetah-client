@@ -1,7 +1,11 @@
 # cheetah-client
 
+### Installing
+```sh
+$ npm i --save-dev cheetah-client
+```
 
-### Examples
+### Usage
 ```javascript
 const cheetah = new CheetahClient()
 
